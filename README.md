@@ -21,4 +21,4 @@ Once you have every package installed, run the script as follows:
 python3 scraper.py
 ```
 
-Visit `https://packaging.python.org/en/latest/tutorials/installing-packages/` for additional help and support regarding Python and package management.
+Visit https://packaging.python.org/en/latest/tutorials/installing-packages/ for additional help and support regarding Python and package management.
