@@ -4,8 +4,7 @@ A Python script to scrape book related data from the https://books.toscrape.com 
 
 # Execution
 
-Make sure you have `Python` and it's package manager `PyPi` are installed on your machine.
-Additionally, this program runs on `Python 3.11.4` and uses `pip 25.0.1`.
+Make sure you have `Python` and `PyPi` installed on your machine. This program runs on `Python 3.11.4` and uses `pip 25.0.1`.
 
 Run `python3 --version` and `python3 -m pip --version` to check what you have installed on your machine.
 
